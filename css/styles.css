@@ -1,0 +1,16 @@
+h1{
+    color:yellowgreen;
+    border-style: solid;
+    border-color: black;
+}
+p{
+color: cyan;
+column-fill: inherit;
+}
+img{
+    background-size: auto;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: black;
+    
+}

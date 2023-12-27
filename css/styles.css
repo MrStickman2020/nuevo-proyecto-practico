@@ -5,13 +5,13 @@ h1{
     background-color: rgb(27, 179, 128);
 }
 p{
-color: cyan;
+color: rgb(255, 0, 0);
 column-fill: inherit;
 }
 img{
     background-size: auto;
-    border-radius: 10%;
+    border-radius: 15%;
     border-style: solid;
-    border-color: green;
+    border-color: black;
 
 }
